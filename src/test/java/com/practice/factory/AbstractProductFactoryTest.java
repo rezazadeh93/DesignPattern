@@ -1,9 +1,9 @@
 package com.practice.factory;
 
 import com.practice.factory.enums.ProductType;
-import com.practice.factory.serviceproduct.AbstractProduct;
-import com.practice.factory.serviceproduct.impl.AbstractProductDamaged;
-import com.practice.factory.serviceproduct.impl.AbstractProductRepair;
+import com.practice.factory.serviceProduct.AbstractProduct;
+import com.practice.factory.serviceProduct.impl.AbstractProductDamaged;
+import com.practice.factory.serviceProduct.impl.AbstractProductRepair;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

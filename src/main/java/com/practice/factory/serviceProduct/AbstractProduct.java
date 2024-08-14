@@ -1,4 +1,4 @@
-package com.practice.factory.serviceproduct;
+package com.practice.factory.serviceProduct;
 
 import com.practice.factory.dto.DetailOutput;
 

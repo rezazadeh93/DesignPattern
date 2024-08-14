@@ -1,4 +1,4 @@
-package com.practice.factory.serviceproduct;
+package com.practice.factory.serviceProduct;
 
 public abstract class AbstractService {
     protected Long id;

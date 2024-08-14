@@ -1,7 +1,7 @@
-package com.practice.factory.serviceproduct.impl;
+package com.practice.factory.serviceProduct.impl;
 
 import com.practice.factory.dto.DetailOutput;
-import com.practice.factory.serviceproduct.AbstractProduct;
+import com.practice.factory.serviceProduct.AbstractProduct;
 
 public class AbstractProductDamaged extends AbstractProduct {
     @Override

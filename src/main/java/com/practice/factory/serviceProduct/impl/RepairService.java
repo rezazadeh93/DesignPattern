@@ -1,6 +1,6 @@
-package com.practice.factory.serviceproduct.impl;
+package com.practice.factory.serviceProduct.impl;
 
-import com.practice.factory.serviceproduct.AbstractService;
+import com.practice.factory.serviceProduct.AbstractService;
 
 public class RepairService extends AbstractService {
     @Override

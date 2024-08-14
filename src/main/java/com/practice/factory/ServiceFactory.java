@@ -1,9 +1,9 @@
 package com.practice.factory;
 
 import com.practice.factory.enums.ProductType;
-import com.practice.factory.serviceproduct.AbstractService;
-import com.practice.factory.serviceproduct.impl.DamagedService;
-import com.practice.factory.serviceproduct.impl.RepairService;
+import com.practice.factory.serviceProduct.AbstractService;
+import com.practice.factory.serviceProduct.impl.DamagedService;
+import com.practice.factory.serviceProduct.impl.RepairService;
 
 import java.util.Objects;
 
